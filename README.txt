@@ -1,0 +1,1 @@
+The Main.java file can be compiled and run using an IDE like IntelliJ, or using javac Main.java to compile, and then using java Main to run.
