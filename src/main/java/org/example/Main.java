@@ -187,7 +187,7 @@ public class Main {
 
             if (!table_exists) {
                 //create the table
-                stmt.executeUpdate("CREATE TABLE IF NOT EXISTS public.students ( " +
+                stmt.executeUpdate("CREATE TABLE public.students ( " +
                         "student_id serial," +
                         "first_name text NOT NULL," +
                         "last_name text NOT NULL," +
